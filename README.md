@@ -1,7 +1,7 @@
 Blockbuster or art film?
 ==============================
 
-Feature Engineering and Data Classification Project
+Data Clustering Project
 
 Project Organization
 ------------
